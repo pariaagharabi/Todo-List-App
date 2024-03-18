@@ -19,4 +19,28 @@ body {
   font-family: cursive;
 }
 
+/* Styling App Container */
+.app-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+
+/* Styling App Inner Container */
+.app-inner-cntainer{
+
+}
+
+/* Styling App Header Container */
+.app-header-container{}
+
+/* Styling Todo List Container */
+.todo-list-container{}
+
+/* Styling Display New Todos */
+.display-new-todos{}
+
+/* Styling Todos Notification */
+.todos-notification{}
+
 
