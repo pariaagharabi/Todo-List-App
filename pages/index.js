@@ -1,5 +1,6 @@
 import Head from "next/head";
 import React from "react";
+import TodoListApp from "./components/TodoListApp";
 
 export default function Home() {
   return (
@@ -7,6 +8,8 @@ export default function Home() {
       <Head>
         <title>Todo List - React App</title>
       </Head>
+
+      <TodoListApp />
 
     </>
   );
